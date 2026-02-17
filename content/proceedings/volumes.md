@@ -7,6 +7,7 @@ title = "Volumes"
 
 | #   | Title |
 | ---:| ---- |
+| 60  | [Proceedings of the 2nd Huminfra Conference (HiC 2025)](https://hdl.handle.net/10062/118290) |
 | 59  | [Huminfra handbook: Empowering digital and experimental humanities](https://hdl.handle.net/10062/117324) |
 | 58  | [Proceedings of the 8th International Conference on Historical Cryptology (HistoCrypt 2025)](https://doi.org/10.58009/aere-perennius0158) |
 | <sup>†</sup>57 | [Proceedings of the 3rd Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)](https://hdl.handle.net/10062/107132) |
